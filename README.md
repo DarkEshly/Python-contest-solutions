@@ -1,1 +1,1 @@
-# Python-contest-solution
+# Решение задач по практикуму на языке Python
